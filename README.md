@@ -12,4 +12,4 @@ The goal of the project is to design the sample below using HTML and CSS.
 [Color palette](https://coolors.co/86cb92-71b48d-404e7c-251f47-260f26)
 
 ## Demo
-Website is deployed on GitHub Page and can be accessed via: [link]()
+Website is deployed on GitHub Page and can be accessed via: [link](https://charitharaghavaraju.github.io/city-homepage)
