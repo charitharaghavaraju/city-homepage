@@ -2,29 +2,14 @@
 
 A website showcasing Tampere, a vibrant district in Finland.
 
-## Features
+A hometown homepage built with HTML &amp; CSS as part of a Scrimba solo project.
 
-- Hero section with background image
-- Three featured activities
-- Local guide introduction
+## Description
+The goal of the project is to design the sample below using HTML and CSS.
 
-## Quick Start
+[Figma link](https://www.figma.com/design/2QuGfAOcHaZJ6aHXfuamnK/Hometown-Homepage?node-id=121-2&t=EIQgFxCXVHVBLl4M-1)
 
-```bash
-npm install
-npm start
-```
+[Color palette](https://coolors.co/86cb92-71b48d-404e7c-251f47-260f26)
 
-Opens at `http://localhost:5173/`
-
-## Customize
-
-- Edit `index.html` to change text and activities
-- Edit `styles.css` to change colors and styling
-- Replace images in the `images/` folder
-
-## Color Palette
-- Light: #F1FAEE
-- Aqua: #A8DADC
-- Light Blue: #457B9D
-- Dark Blue: #1D3557
+## Demo
+Website is deployed on GitHub Page and can be accessed via: [link]()
