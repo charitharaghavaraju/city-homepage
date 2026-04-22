@@ -1,0 +1,127 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0 auto;
+    font-family: "Old Standard TT", serif;
+    text-align: center;
+    max-width: fit-content;
+}
+
+#hero {
+    background-image: url("images/tampere.jpg");
+    background-size: cover;
+    height: 350px;
+    padding: 10px 0px 0px 0px;
+    color: #F1FAEE;
+    font-size: 15px;
+
+}
+
+#visit-city {
+    font-size: 32px;
+    width: 250px;
+    margin: 100px auto 16px;
+    background-color: #1D3557;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+#description {
+    font-size: 18px;
+    background-color: #457B9D;
+    width: 360px;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+img {
+    width: 100px;
+}
+
+.activities {
+    background-color: #F1FAEE;
+    padding: 39px 0px 38px;
+}
+
+.activities-heading {
+    font-size: 24px;
+    color: #1D3557;
+    margin-bottom: 50px;
+}
+
+.activities-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.activity-card {
+    width: 25%;
+}
+
+.activities-imgs {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.img-title {
+    font-size: 16px;
+    color: #1D3557;
+    margin: 22px 0px 16px;
+}
+
+.img-description {
+    font-size: 16px;
+    color: #1D3557;
+    margin: 0px 0px 16px;
+}
+
+.avatar {
+    width: 180px;
+    height: 170px;
+    border-radius: 10%;
+}
+
+.guide {
+    color: #1D3557;
+    background-color: #ffffff;
+    background: #A8DADC;
+    border: #A8DADC solid 2px;
+    border-bottom: #1D3557 solid 6px;
+    padding: 15px 20px;
+
+    width: 400px;
+    margin: 50px auto;
+    border-radius: 10px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.guide-head {
+    font-size: 24px;
+    margin: 50px 0px 15px;
+}
+
+.guide-description {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0px 0px 26px;
+    width: 190px;
+}
+
+.guide-name {
+    font-size: 16px;
+    font-weight: bold;
+}
